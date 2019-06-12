@@ -1,0 +1,8 @@
+{
+  "name": "com.netwonsoft.json",
+  "version": "1.0.0",
+  "displayName": "Newtonsoft Json",
+  "description": "Newtonsoft Json in a package",
+  "unity": "2018.3",
+  "unityRelease": "12f1"
+}
